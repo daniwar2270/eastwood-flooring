@@ -1,0 +1,6 @@
+{
+  "name": "FloorOps Pro - Enterprise Logistics & Estimating Platform",
+  "description": "Enterprise logistics, dynamic estimating, inventory catalog, and jobsite moisture telemetry architecture with normalized MySQL schema and NestJS TypeORM entities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
